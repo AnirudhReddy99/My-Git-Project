@@ -9,7 +9,7 @@ class solution {
                         return new int[]{i, j};
               }
          }
-         throw new IllegalArgumentException("Invalid elements"); 
+         throw new IllegalArgumentException("Invalid Elements"); 
      
      }
 }
